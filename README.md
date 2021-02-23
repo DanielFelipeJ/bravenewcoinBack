@@ -1,10 +1,11 @@
 # bravenewcoinBack
 
-Create a database **bnc** in MySQL and update the credentials in the
-aplication.properties acording to you local MySQL installation.
+Crea una base de datos **bnc** en MySQL y actualice las credenciales
+en el apication.properties según su instalación local de MySQL.
 
-## Development server
+## Desarrollo del servidor
 
-Go to the project directory and open the CMD and run the command
-**mvnw clean install** and the **mvnw spring-boot:run** .
-The application will run in [http//localhost:8080](http//localhost:8080)
+Vaya al directorio del proyecto, abra la CMD y ejecute el comando
+**mvnw clean install** y **mvnw spring-boot:run**.
+La aplicación se ejecutará en [http://localhost:8080](http://localhost:8080)
+
